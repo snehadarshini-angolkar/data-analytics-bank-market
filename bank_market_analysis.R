@@ -1,0 +1,1 @@
+bank_df <- read.csv("./real_estate_sales.csv", sep=",")
